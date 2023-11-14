@@ -1,0 +1,37 @@
+.main
+{
+    width: 290px;
+    height: 120px;
+}
+.part2
+{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding-top: 66px;
+}
+.imgpeople
+{
+    position: absolute;
+    top: -60px;
+    
+}
+.firsttxt
+{
+    font-family: Gotham Pro;
+    font-size: 10px;
+    line-height: 15px;
+    font-weight: bold;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+.secondtxt
+{   margin-top: 10px;
+    font-family: Gotham Pro;
+    font-size: 10px;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
